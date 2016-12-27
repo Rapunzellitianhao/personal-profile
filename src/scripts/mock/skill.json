@@ -1,0 +1,27 @@
+{
+
+"info":[
+	{
+		"skill":"HTML4、HTML5、CommonJS、AMD等规范",
+		"deep":"基本了解"
+	},
+	{
+		"skill":"Jquery、Zepto、AngularJs等框架",
+		"deep":"熟练运用"
+	},
+	{
+		"skill":"Swiper、Iscroll等类库",
+		"deep":"熟练运用"
+	},
+	{
+		"skill":"Fixed、Fulid、Flex、Responsive等布局",
+		"deep":"精通"
+	},
+	{
+		"skill":"Javascript原生、Jquery及Zepto插件、AngularJs等程序",
+		"deep":"精通"
+	}
+]
+
+
+}
